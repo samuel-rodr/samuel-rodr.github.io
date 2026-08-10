@@ -2,12 +2,12 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Samuel dos Santos Rodrigues
+  display: Samuel Rodrigues
   given: Samuel
   family: dos Santos Rodrigues
   alternate: ''
   pronunciation: ''
-  pronouns: ele/dele
+  pronouns: ''
 postnominals: []
 status:
   icon: "🎓"
@@ -25,7 +25,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:seuemail@exemplo.com
+    url: mailto:ssrodr92@gmail.com
     label: E-mail
   - icon: brands/github
     url: https://github.com/samuel-rodr
