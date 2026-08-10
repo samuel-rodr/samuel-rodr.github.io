@@ -9,6 +9,18 @@ interests:
   - Políticas Públicas e Mobilidade Urbana
   - Transporte Público Tarifa Zero
   - Análise de Dados Quantitativos (R)
+education:
+  courses:
+    - course: Mestrado em Ciência Política
+      institution: Universidade Federal de Minas Gerais (UFMG)
+      year: 2026
+    - course: Graduação em Gestão Pública
+      institution: Universidade Federal de Minas Gerais (UFMG)
+      year: 2026
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:ssrodr92@gmail.com'
 ---
 
 Mestrando em Ciência Política pela Universidade Federal de Minas Gerais (UFMG), onde também concluí minha graduação em Gestão Pública.
