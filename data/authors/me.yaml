@@ -15,7 +15,7 @@ role: Mestrando em Ciência Política
 bio: |
   Mestrando em Ciência Política pela Universidade Federal de Minas Gerais (UFMG), onde também concluí minha graduação em Gestão Pública.
   
-  Atualmente, atuo no setor financeiro da União, possuindo sólida experiência profissional na gestão financeira pública, com foco na esfera federal. Além disso, conto com especialização em Administração Pública pela Escola de Especialização e Instrução.
+  Atualmente, trabalho no setor financeiro da União, possuindo sólida experiência profissional na gestão financeira pública, com foco na esfera federal. Além disso, conto com especialização em Administração Pública pela Escola de Especialização e Instrução.
   
   Minhas pesquisas e projetos concentram-se nas áreas de Ciência Política, finanças públicas e políticas sociais, investigando temas como capacidade estatal infraestrutural, desigualdades intermunicipais, financiamento de políticas públicas comparadas e a implementação de políticas urbanas (como o estudo sobre a expansão das guardas municipais e o perfil dos municípios que adotaram a tarifa zero no transporte coletivo).
 
@@ -30,15 +30,10 @@ links:
   - icon: brands/github
     url: https://github.com/samuel-rodr
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/seu-perfil/
+    url: www.linkedin.com/in/samuel-santos-1a7424241
   - icon: academicons/lattes
-    url: http://lattes.cnpq.br/seu-codigo-lattes
-
-interests:
-  - Políticas Públicas e Mobilidade Urbana
-  - Transporte Público Tarifa Zero
-  - Análise de Dados Quantitativos (R)
-
+    url: https://lattes.cnpq.br/2016525585572865
+    
 education:
   - degree: Mestrado em Ciência Política
     institution: Universidade Federal de Minas Gerais (UFMG)
@@ -54,17 +49,16 @@ education:
       Trabalho de Conclusão de Curso defendido em dezembro de 2025.
 
 experience:
-  - role: 2º Sargento (Gestão Financeira)
-    org: Exército Brasileiro
+  - role: Agente público
+    org: União
     start: 2020-01-01
     summary: |
-      Atuação no setor financeiro da União, possuindo sólida experiência profissional na gestão administrativa e financeira pública na 4ª Companhia de Comunicações Leve de Montanha.
-  - role: Pesquisador (Programa Imersão)
-    org: Câmara Municipal de Belo Horizonte
-    start: 2025-01-01
-    end: 2025-07-31
+      Atuação no setor financeiro da União, possuindo sólida experiência profissional na gestão administrativa e financeira pública.
+  - role: Pesquisador
+    org: Publicos, CEL
+    start: 2024-01-01
     summary: |
-      Participação institucional para análise e entrega de relatório diagnóstico sobre equipamentos públicos municipais de assistência social, educação e saúde.
+      Participação em núcleos de pesquisa de temas relacionados com a Ciência Política.
 
 skills:
   - name: Habilidades Técnicas
