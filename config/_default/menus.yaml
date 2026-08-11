@@ -7,9 +7,6 @@ main:
   - name: Biografia
     url: '#biografia'
     weight: 10
-  - name: Formação
-    url: '#Formação'
-    weight: 20
   - name: Projetos
     url: '#projetos'
     weight: 30
