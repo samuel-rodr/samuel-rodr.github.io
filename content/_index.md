@@ -11,6 +11,8 @@ sections:
         education: 'Formação'
         experience: 'Experiência'
     design:
+      spacing:
+        padding: ['0', '0', '0', '0']
       background:
         gradient_mesh:
           enable: true
