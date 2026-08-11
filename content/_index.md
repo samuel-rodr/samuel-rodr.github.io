@@ -6,6 +6,10 @@ sections:
     id: biografia
     content:
       username: me
+      headings:
+        about: 'Biografia'
+        education: 'Formação'
+        experience: 'Experiência'
     design:
       background:
         gradient_mesh:
