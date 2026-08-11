@@ -2,7 +2,7 @@
 title: Início
 type: landing
 sections:
-  - block: about.biography
+  - block: about.avatar
     id: biografia
     content:
       username: me
@@ -16,7 +16,7 @@ sections:
     content:
       title: Meus Projetos e Repositórios
       text: |
-        Aqui você encontra meus projetos, bases de dados e scripts para análise estatística.
+        Aqui você encontra meus projetos, bases de dados e scripts em R para análise estatística e econométrica voltados para políticas públicas.
         
         * 💻 **[Acesse todos os meus repositórios no GitHub](https://github.com/samuel-rodr)**
 ---
