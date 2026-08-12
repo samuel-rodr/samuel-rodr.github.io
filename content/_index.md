@@ -24,7 +24,9 @@ sections:
     content:
       title: Meus Projetos e Repositórios
       text: |
+    <div style="text-align: justify;">
         Aqui você encontra meus projetos, bases de dados e scripts em R para análise estatística e econométrica voltados para políticas públicas.
+        </div>
         
-        * 💻 **[Acesse todos os meus repositórios no GitHub](https://github.com/samuel-rodr)**
+        * 💻 **[ACESSO AOS REPOSITÓRIOS](https://github.com/samuel-rodr)**
 ---
